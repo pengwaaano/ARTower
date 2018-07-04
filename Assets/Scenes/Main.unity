@@ -333,7 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   block: {fileID: 1779834740081228, guid: 7b0ec85bc74d04d26a88c24b8192fc8e, type: 2}
   parent: {fileID: 869050592}
-  createHeight: 5
+  createHeight: 0.03
 --- !u!4 &50421818
 Transform:
   m_ObjectHideFlags: 0
