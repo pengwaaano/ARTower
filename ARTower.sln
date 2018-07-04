@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTower", "Assembly-CSharp.csproj", "{A802EC84-0CB1-16A6-F8DA-D5A93B8EBFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTower", "Assembly-CSharp-Editor.csproj", "{C03F70F6-F656-08CE-1520-74557ECC139F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A802EC84-0CB1-16A6-F8DA-D5A93B8EBFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A802EC84-0CB1-16A6-F8DA-D5A93B8EBFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A802EC84-0CB1-16A6-F8DA-D5A93B8EBFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A802EC84-0CB1-16A6-F8DA-D5A93B8EBFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03F70F6-F656-08CE-1520-74557ECC139F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03F70F6-F656-08CE-1520-74557ECC139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03F70F6-F656-08CE-1520-74557ECC139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03F70F6-F656-08CE-1520-74557ECC139F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
